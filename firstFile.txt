@@ -1,5 +1,5 @@
-first
-second
+first fire
+second sun
 third
 fourth
 fifth
