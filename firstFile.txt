@@ -1,7 +1,7 @@
-first
-second
-third
-fourth
+first fire
+second sun
+third tank
+fourth frog
 fifth
 sixth
 seventh
